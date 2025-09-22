@@ -1,0 +1,80 @@
+.container {
+    background-image: radial-gradient(#eb3434, #ebd934, #eb3434);
+    background-size: cover;
+    padding: 5%;
+    border-radius: 12px;
+}
+
+.head {
+    font-style: italic;
+    font-family: Times, serif;
+    background-image: linear-gradient(#eb3434, #ebd934, #eb3434);
+    text-decoration: underline double;
+    text-align: center;
+    margin: 3%;
+}
+.head-2{
+    text-decoration: underline;
+    font-style: oblique;
+     font-style: italic;
+    font-family: Times, serif;
+}
+.para {
+    font-size: 1.1em;   
+    margin: auto;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.nav-head {
+    text-align: center;
+    font-size: 1em;  
+}
+
+.carda {
+    margin: 4%;
+    text-align: center;
+}
+
+.image {
+    width: 60%;        
+    max-width: 250px;  
+    height: auto;      
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+}
+
+.para-car {
+    font-size: 1.2em;  
+    margin: 5%;
+    padding: 2%;
+    text-align: justify;
+}
+
+.nav-images {
+    width: 80%;        
+    max-width: 180px;  
+    height: auto;
+    margin: 10px auto;
+    border-radius: 25%;
+    display: block;
+}
+
+.btn {
+    margin-bottom: 3%;
+    font-size: 1.5em;      
+    padding: 10px 20px;  
+    width: 90%;          
+    max-width: 220px;    
+}
+
+.carousel-inner img {
+    width: 100%;         
+    height: auto;        
+    max-height: 500px;   
+    object-fit: contain; 
+    margin: auto;
+    display: block;
+}
+
