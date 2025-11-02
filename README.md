@@ -22,19 +22,32 @@ This project demonstrates modern web design principles, responsive layouts, and 
 ✅ Deployed live using GitHub Pages
 
 🧩 Project Structure
+
 Dasara-Navaratri/
 │
-├── index.html        # Main HTML file
-├── stylenava.css     # Custom styles for the design
-└── README.md         # Project documentation
+
+├── index.html
+        # Main HTML file
+├── stylenava.css
+     # Custom styles for the design
+└── README.md
+         # Project documentation
 
 🖥️ Tech Stack
+
 Technology	Purpose
+
 HTML5	Structure and content
+
 CSS3	Styling and layout
+
 Bootstrap 5	Responsive design
+
 VS Code	Development environment
+
 GitHub Pages	Deployment and hosting
+
+
 🌐 Live Demo
 
 🔗 Visit the live site: https://sreeranga-chippala.github.io/Dasara-Navaratri/
@@ -56,17 +69,24 @@ Deploying websites easily on GitHub Pages
 🚀 Future Enhancements
 
 ✨ Add a festive image carousel
+
 ✨ Include background devotional music
+
 ✨ Add dark mode support
+
 ✨ Extend to a collection of Indian festival pages
+
 
 🧑‍💻 Author
 
+
 👨‍💻 Chippala Sree Ranganath
+
 🎓 B.E. in Artificial Intelligence and Machine Learning – MSRIT
+
 📘 Trained under NxtWave CCBP 4.0 Technologies
 
-🔗 GitHub Profile
+🔗 GitHub Profile: https://github.com/sreeranga-chippala
 
 🕉️ Message
 
