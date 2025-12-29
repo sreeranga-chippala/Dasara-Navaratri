@@ -27,10 +27,15 @@ Dasara-Navaratri/
 │
 
 ├── index.html
+       
         # Main HTML file
+
 ├── stylenava.css
+     
      # Custom styles for the design
+
 └── README.md
+        
          # Project documentation
 
 🖥️ Tech Stack
